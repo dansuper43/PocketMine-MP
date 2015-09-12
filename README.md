@@ -13,6 +13,8 @@
 
 	You should have received a copy of the GNU Lesser General Public License
 	along with this program.  If not, see <http://www.gnu.org/licenses/>.
+	
+        InstantMCPE Free 24 Hour Server Hosting Uses PocketMine
 
 
 __PocketMine-MP is a free, open-source software that creates Minecraft: Pocket Edition servers and allows extending its functionalities__
